@@ -1,13 +1,21 @@
 
-Purpose is to archive the Machine Learning with Siraj Slack Workspace.
+Purpose:
+-------
+
+Archive the Machine Learning with Siraj Slack Workspace.
 
 To contribute, send a pm to @Steve Fisher on slack and i'll pass on the auth token.
 
 Alternatively, you can create your own app in the 'manage workspace' section of slack.com.
 
 
-to-do
-------
+Progress:
+--------
+
+
+
+outstanding tasks:
+-----------------
 
 ~ Automate outputting the data into a db
 ~ Create a react app to display the content somewhere on the web
