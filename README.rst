@@ -18,7 +18,7 @@ outstanding tasks:
 -----------------
 
 ~ Automate outputting the data into a db
-~ Create a react app to display the content somewhere on the web
+~ Create a react/node.js app to display the content somewhere on the web
 
 Threads aren't getting pulled
    -
@@ -27,7 +27,7 @@ Images / Files aren't getting pulled
    - see: https://api.slack.com/tutorials/working-with-files
    
 
-
+---
 
 
 slack_history
