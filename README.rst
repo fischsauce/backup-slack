@@ -1,4 +1,11 @@
 
+Purpose is to archive the Machine Learning with Siraj Slack Workspace.
+
+To contribute, send a pm to @Steve Fisher on slack and i'll pass on the auth token.
+
+Alternatively, you can create your own app in the 'manage workspace' section of slack.com.
+
+
 to-do
 ------
 
